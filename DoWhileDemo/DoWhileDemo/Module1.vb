@@ -4,9 +4,6 @@ Module Module1
 
     Sub Main()
         Dim num As Integer = 1
-
-
-
         Do While num <= 7
             num = 10
             Console.WriteLine(" " & num)
